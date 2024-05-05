@@ -1,2 +1,2 @@
 # new-maven
-Sample maven project.
+Sample maven project for Jenkins learning.
